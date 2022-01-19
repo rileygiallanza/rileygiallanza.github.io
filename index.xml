@@ -220,7 +220,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-345186729&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-819672435&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -230,7 +230,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-345186729&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-819672435&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -847,36 +847,67 @@ padding: 10px;
       <link>https://academic-demo.netlify.app/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/photography/</guid>
-      <description>&lt;html&gt; {
-  font-family: system-ui;
-}
-&lt;p&gt;table {
-border-collapse: collapse;
-border: 2px solid rgb(200,200,200);
-letter-spacing: 1px;
-font-size: 0.8rem;
-}&lt;/p&gt;
-&lt;p&gt;td, th {
-border: 1px solid rgb(190,190,190);
-padding: 10px 20px;
-}&lt;/p&gt;
-&lt;p&gt;th {
-background-color: rgb(235,235,235);
-}&lt;/p&gt;
-&lt;p&gt;td {
-text-align: center;
-}&lt;/p&gt;
-&lt;p&gt;tr:nth-child(even) td {
-background-color: rgb(250,250,250);
-}&lt;/p&gt;
-&lt;p&gt;tr:nth-child(odd) td {
-background-color: rgb(245,245,245);
-}&lt;/p&gt;
-&lt;p&gt;caption {
-padding: 10px;
-}&lt;/p&gt;
-&lt;/html&gt;
-</description>
+      <description>  &lt;html&gt;
+  &lt;body&gt;
+  &lt;div class=&#34;grid-container&#34;&gt;
+    &lt;div class=&#34;ui card&#34;&gt;
+      &lt;div class=&#34;image&#34;&gt;
+        &lt;img src=
+          &#34;/post/_index_files/portraitheader.jpg&#34;&gt;
+          &lt;/div&gt;
+          &lt;div class=&#34;content&#34;&gt;
+            &lt;a class=&#34;header&#34;&gt;Portraits&lt;/a&gt;
+              &lt;/div&gt;
+              &lt;form method=&#34;get&#34; action=&#34;https://academic-demo.netlify.app/post/portraits/&#34;&gt;
+                &lt;button class=&#34;btn1&#34;type=&#34;submit&#34;&gt;Gallery&lt;/button&gt;
+                  &lt;/form&gt;	
+                  &lt;/div&gt;
+                  &lt;script src=
+                    &#34;portraitsjs.js&#34;&gt;
+                    &lt;/script&gt;
+                    &lt;/body&gt;
+                    &lt;/html&gt;
+                    &lt;html&gt;
+                    &lt;body&gt;
+                    &lt;div  class=&#34;grid-container&#34;&gt;
+                      &lt;div class=&#34;ui card&#34;&gt;
+                        &lt;div class=&#34;image&#34;&gt;
+                          &lt;img src=
+                            &#34;/post/_index_files/printsheader.jpg&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;content&#34;&gt;
+                              &lt;a class=&#34;header&#34;&gt;Prints&lt;/a&gt;
+                                &lt;/div&gt;
+                                &lt;form method=&#34;get&#34; action=&#34;https://academic-demo.netlify.app/post/print shop/&#34;&gt;
+                                  &lt;button class=&#34;btn1&#34;type=&#34;submit&#34;&gt;Shop&lt;/button&gt;
+                                    &lt;/form&gt;	
+                                    &lt;/div&gt;
+                                    &lt;script src=
+                                      &#34;printshopjs.js&#34;&gt;
+                                      &lt;/script&gt;
+                                      &lt;/body&gt;
+                                      &lt;/html&gt;
+                                      &lt;html&gt;
+                                      &lt;style&gt;
+                                      .grid-container{
+                                        display: grid;
+                                        grid-template-columns: repeat(2, 400px);
+                                        grid-auto-rows: auto;
+                                        grid-gap: 2rem;
+                                      }
+                                    .card{
+                                      width: 400px;
+                                      padding: 20px;
+                                      border: 1px;
+                                    }
+                                    .btn1 {
+                                      color : rgb(252, 252, 252);
+                                      background-color: rgba(129, 167, 255);
+                                      border-radius: 10px 10px 10px 10px;
+                                      font-size: 16px;
+                                    }
+                                    &lt;/style&gt;
+                                      &lt;/html&gt;</description>
     </item>
     
   </channel>
