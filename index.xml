@@ -131,9 +131,25 @@ The explosion of digital media in this technological age has had foundational co
     
     <item>
       <title></title>
+      <link>https://rileygiallanza.github.io/land-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rileygiallanza.github.io/land-city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://rileygiallanza.github.io/photography-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rileygiallanza.github.io/photography-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rileygiallanza.github.io/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rileygiallanza.github.io/travel/</guid>
       <description></description>
     </item>
     
@@ -250,14 +266,6 @@ padding: 10px;
     </item>
     
     <item>
-      <title>Landscapes &amp; Cityscapes</title>
-      <link>https://rileygiallanza.github.io/travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rileygiallanza.github.io/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Photography</title>
       <link>https://rileygiallanza.github.io/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -330,7 +338,65 @@ padding: 10px;
       <link>https://rileygiallanza.github.io/portraits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rileygiallanza.github.io/portraits/</guid>
-      <description></description>
+      <description>  &lt;html&gt;
+  &lt;div class=&#34;gallery&#34;&gt;
+  &lt;figure class=&#34;gallery_item&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image1.jpg&#34; class=&#34;gallery_img alt=&#34;Image 1&#34;&gt;
+  &lt;/figure&gt;
+  &lt;figure class=&#34;gallery_item&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image17.jpg&#34; class=&#34;gallery_img alt=&#34;Image 2&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image3.jpg&#34; class=&#34;gallery_img alt=&#34;Image 3&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--4&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image4.jpg&#34; class=&#34;gallery_img alt=&#34;Image 4&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--5&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image5.jpg&#34; class=&#34;gallery_img alt=&#34;Image 5&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--6&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image6.jpg&#34; class=&#34;gallery_img alt=&#34;Image 6&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--7&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image7.jpg&#34; class=&#34;gallery_img alt=&#34;Image 7&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--8&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image8.jpg&#34; class=&#34;gallery_img alt=&#34;Image 8&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--9&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image9.jpg&#34; class=&#34;gallery_img alt=&#34;Image 9&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--10&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image10.jpg&#34; class=&#34;gallery_img alt=&#34;Image 10&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--11&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image11.jpg&#34; class=&#34;gallery_img alt=&#34;Image 11&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--12&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image12.jpg&#34; class=&#34;gallery_img alt=&#34;Image 12&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--13&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image13.jpg&#34; class=&#34;gallery_img alt=&#34;Image 13&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--14&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image14.jpg&#34; class=&#34;gallery_img alt=&#34;Image 14&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--15&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image15.jpg&#34; class=&#34;gallery_img alt=&#34;Image 15&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--16&#34;&gt;
+    &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image16.jpg&#34; class=&#34;gallery_img alt=&#34;Image 16&#34;&gt;
+  &lt;/figure&gt;&lt;figure class=&#34;gallery_item gallery_item--17&#34;&gt;
+  &lt;img src=&#34;https://rileygiallanza.github.io/portraits/image2.jpg&#34; class=&#34;gallery_img alt=&#34;Image 17&#34;&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+&lt;style&gt;
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 250px);
+  grid-auto-rows: auto;
+  grid-gap: 0rem;
+  
+}
+
+.gallery_img {
+  height: 300px;
+  background: transparent;
+  border: 0;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+</description>
     </item>
     
   </channel>
