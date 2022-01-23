@@ -131,6 +131,14 @@ The explosion of digital media in this technological age has had foundational co
     
     <item>
       <title></title>
+      <link>https://rileygiallanza.github.io/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rileygiallanza.github.io/classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://rileygiallanza.github.io/land-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rileygiallanza.github.io/land-city/</guid>
@@ -159,118 +167,6 @@ The explosion of digital media in this technological age has had foundational co
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rileygiallanza.github.io/travel/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Classes</title>
-      <link>https://rileygiallanza.github.io/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rileygiallanza.github.io/classes/</guid>
-      <description>  &lt;style&gt;
-  tbody {
-    font-size: 100%;
-    font-style: bold;
-  }
-
-tfoot {
-  font-weight: bold;
-}
-.tbl { overflow-x: auto; }
-th, td { min-width: 100px; }
-&lt;/style&gt;
-  &lt;/head&gt;
-  &lt;div style=&#34;margin-top: 20px; margin-bottom: 20px&#34; class=&#34;ui text container&#34;&gt;
-  &lt;body&gt;
-  &lt;div class=&#34;tbl&#34;&gt;
-  &lt;table&gt;
-  &lt;thead&gt;
-  &lt;tr&gt;
-  &lt;th&gt;Year of Study&lt;/th&gt;
-  &lt;th&gt;Fall&lt;/th&gt;
-  &lt;th&gt;Spring&lt;/th&gt;
-  &lt;th&gt;Summer 1&lt;/th&gt;
-  &lt;th&gt;Summer 2&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-  &lt;!-- First Year  --&gt;
-  &lt;tr&gt;
-  &lt;td rowspan=&#34;4&#34;&gt;1st Year&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;cs1800&#34;&gt;Foundations of Psychology&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;cs2510&#34;&gt;General Biology 2 + Lab&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;cs3500&#34;&gt;Genetics and Molecular Biology&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;phil2325&#34;&gt;Introduction to Sociology&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;engw1111&#34;&gt;General Biology 1 + Lab&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;math1341&#34;&gt;General Chemistry 1 + Lab&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;math1342&#34;&gt;Calculus 1 for Science and Engineering&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;math2331&#34;&gt;Community and Public Health&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;hist1215&#34;&gt;Current Issues in Cities and Suburbs&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;psyc1101&#34;&gt;Introduction to the American Healthcare System&lt;/a&gt;&lt;/td&gt;
-  &lt;!-- &lt;td /&gt;
-  &lt;td /&gt; --&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;cs2500&#34;&gt;First Year Writing&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;engl2150&#34;&gt;Moral and Social Issues in Healthcare&lt;/a&gt;&lt;/td&gt;
-  &lt;!-- &lt;td /&gt;
-  &lt;td /&gt; --&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td colspan=&#34;5&#34;/&gt;
-  &lt;/tr&gt;
-  &lt;!-- Second Year --&gt;
-  &lt;tr&gt;
-  &lt;td rowspan=&#34;4&#34;&gt;2nd Year&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&#34;math1365&#34;&gt;Foundations of Biostatistics&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;cs2810&#34;&gt;Environment and Society&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;cs5800&#34;&gt;Introduction to Global Health&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-  &lt;td&gt;&lt;a href=&#34;comm1112&#34;&gt;Ethics and Evolutionary Games&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;/table&gt;
-  &lt;/div&gt;
-  &lt;/body&gt;
-  &lt;/div&gt;
-  &lt;/html&gt;
-  &lt;html&gt; 
-  &lt;font-family: system-ui;&gt;
-  &lt;table
-border-collapse: collapse;
-border: 2px solid rgb(200,200,200);
-letter-spacing: 1px;
-font-size: 0.8rem;
-&gt;
-  &lt;td th 
-border: 1px solid rgb(190,190,190);
-padding: 10px 20px;
-&gt;
-  &lt;th
-background-color: rgb(235,235,235);
-&gt;
-  &lt;td
-text-align: center;
-&gt;
-  &lt;tr nth-child(even) td 
-background-color: rgb(250,250,250);
-&gt;
-  &lt;tr nth-child(odd) td 
-background-color: rgb(245,245,245);
-&gt;
-  &lt;caption 
-padding: 10px;
-&gt;
-  &lt;/html&gt;
-</description>
     </item>
     
     <item>
